@@ -7,7 +7,7 @@ Predicting founder burnout and startup failure risk using machine-learning.
 
 Founder burnout is a real problem in the startup world, but it's rarely stuided with data. We used a dataset of 50,000+ startup founders (synthetic so we are not creating a PII issue) to build models that preict burnout severity, shutdown risk, and startup failure. 
 
--- 
+
 ## The Dataset
 
 `startup_founder_burnout_2026.csv` - 50,000+ rows, 30 columns covering: 
@@ -22,7 +22,7 @@ In addition to these labels we will be creating our own such as:
 - shutdown risk
 - startup failure flag
 
---
+
 ## Models We're Comparing
 
 - XGBoost
